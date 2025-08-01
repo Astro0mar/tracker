@@ -1,0 +1,18 @@
+[
+  {
+    "conference": "Eurocrypt 2025",
+    "acronym": "EUROCRYPT",
+    "deadline": "2024-11-01T23:59:00Z",
+    "location": "Paris, France",
+    "website": "https://eurocrypt.iacr.org/",
+    "topics": ["Cryptography", "Security"]
+  },
+  {
+    "conference": "IEEE S&P 2025",
+    "acronym": "Oakland",
+    "deadline": "2024-08-18T23:59:00Z",
+    "location": "San Francisco, USA",
+    "website": "https://www.ieee-security.org/",
+    "topics": ["Security", "Blockchain"]
+  }
+]
